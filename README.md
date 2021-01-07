@@ -4,3 +4,5 @@ Churn (loss of customers to competition) is a problem for companies because it i
 
 ## Problem Statement: 
 The objective of this Case is to predict customer behavior. We are providing you a public dataset that has customer usage pattern and if the customer has moved or not. We expect you to develop an algorithm to predict the churn score based on usage pattern.
+
+Read detailed report here - https://github.com/vignesh865/Churn-Detection/blob/master/Churn%20Report.pdf
